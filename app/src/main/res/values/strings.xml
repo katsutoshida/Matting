@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Matting</string>
+    <string name="name">名前</string>
+    <string name="profile">プロフィール編集</string>
+</resources>
